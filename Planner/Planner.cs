@@ -8,6 +8,7 @@ namespace Planner
 {
     class Planner
     {
-
+        public const int CostForPerson = 25;
+        public int NumberOfPerson;
     }
 }
