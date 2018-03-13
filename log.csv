@@ -1,98 +1,12 @@
-commit e32b6c21a1fdd7b56e3604df43a157d55ff6b3a3
-Author: Darron112 <dariusz.steblik@gmail.com>
-Date:   Wed Mar 7 19:13:38 2018 +0100
-
-    delete or modify some files
-
-commit 97f4fb7166396043ec76a7feef8759e8009e8c0c
-Author: Darron112 <dariusz.steblik@gmail.com>
-Date:   Sat Mar 3 12:22:10 2018 +0100
-
-    new test file
-
-commit 77e0d6dfe58f52e7fac925d9ce6112faf5148c5a
-Merge: 551864b 891c511
-Author: Darron112 <dariusz.steblik@gmail.com>
-Date:   Sat Mar 3 12:14:39 2018 +0100
-
-    WIP on StartBranch: 551864b some modify with merge
-
-commit 891c511952126f65a6542f7deded4692abbcc1d4
-Author: Darron112 <dariusz.steblik@gmail.com>
-Date:   Sat Mar 3 12:14:38 2018 +0100
-
-    index on StartBranch: 551864b some modify with merge
-
-commit 551864b2e4e426b96ceea9f57e2724a337247347
-Merge: 9075e1e cea7830
-Author: Darron112 <dariusz.steblik@gmail.com>
-Date:   Sat Mar 3 12:09:48 2018 +0100
-
-    some modify with merge
-
-commit 9075e1e0bb79a758394fca3bfe918240df8e3462
-Author: Darron112 <dariusz.steblik@gmail.com>
-Date:   Sat Mar 3 12:07:18 2018 +0100
-
-    new notes 2
-
-commit cea7830441df20484ee21406cf9226b04fe914e8
-Author: Darron112 <dariusz.steblik@gmail.com>
-Date:   Sat Mar 3 12:06:44 2018 +0100
-
-    new notes
-
-commit a731e4e5b4e5ef7b146c391a363b5c7a16f4fdb4
-Author: Darron112 <dariusz.steblik@gmail.com>
-Date:   Sat Mar 3 12:02:14 2018 +0100
-
-    new notes
-
-commit 94cdad4e5029619fbdbc2f0a2e6641f0cf4d6ac2
-Merge: de4f9b5 7098675
-Author: Darron112 <dariusz.steblik@gmail.com>
-Date:   Sat Mar 3 11:57:46 2018 +0100
-
-    merge branch 'StartBranch'
-
-commit 7098675bf163d8ae38cb768b4e28cabd3360b0cb
-Author: Darron112 <dariusz.steblik@gmail.com>
-Date:   Sat Mar 3 11:57:10 2018 +0100
-
-    add some note to project
-
-commit c135192e2b2924b80b18178c29dd9f20f2537982
-Author: Darron112 <dariusz.steblik@gmail.com>
-Date:   Sat Mar 3 11:51:11 2018 +0100
-
-    move storage
-
-commit de4f9b5ded2489f6a218e298692a993f53cee4cc
-Author: Darron112 <dariusz.steblik@gmail.com>
-Date:   Sat Mar 3 11:50:11 2018 +0100
-
-    modified storage
-
-commit ee1f0cf2f8ad278a4962fdfe03b9817d0f0b83f2
-Author: Darron112 <dariusz.steblik@gmail.com>
-Date:   Sat Mar 3 11:49:04 2018 +0100
-
-    delete wrong class
-
-commit 833836c45cab9d0d64140299a2b1d9373557c3b1
-Author: Darron112 <dariusz.steblik@gmail.com>
-Date:   Sat Mar 3 11:45:29 2018 +0100
-
-    adding ignore file
-
-commit d0039898184c9210586f1ac49d8c96bcd906bbce
-Author: Darron112 <dariusz.steblik@gmail.com>
-Date:   Sat Mar 3 11:41:59 2018 +0100
-
-    create starting value
-
-commit e26e520f2da96ff06917c1a970a49c4b65a6debf
-Author: Darron112 <dariusz.steblik@gmail.com>
-Date:   Sat Mar 3 11:36:39 2018 +0100
-
-    Initial commit
+"eefa0ca","Darron112","2018-03-12 19:53:34 +0100","some modify"
+"275221e","Darron112","2018-03-12 19:52:38 +0100","new export"
+"cea7830","Darron112","2018-03-03 12:06:44 +0100","new notes"
+"a731e4e","Darron112","2018-03-03 12:02:14 +0100","new notes"
+"94cdad4","Darron112","2018-03-03 11:57:46 +0100","merge branch 'StartBranch'"
+"7098675","Darron112","2018-03-03 11:57:10 +0100","add some note to project"
+"c135192","Darron112","2018-03-03 11:51:11 +0100","move storage"
+"de4f9b5","Darron112","2018-03-03 11:50:11 +0100","modified storage"
+"ee1f0cf","Darron112","2018-03-03 11:49:04 +0100","delete wrong class"
+"833836c","Darron112","2018-03-03 11:45:29 +0100","adding ignore file"
+"d003989","Darron112","2018-03-03 11:41:59 +0100","create starting value"
+"e26e520","Darron112","2018-03-03 11:36:39 +0100","Initial commit"
