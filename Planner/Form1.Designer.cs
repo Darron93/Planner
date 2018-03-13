@@ -103,20 +103,21 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(55, 36);
+            this.label1.Location = new System.Drawing.Point(31, 36);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(35, 13);
+            this.label1.Size = new System.Drawing.Size(60, 13);
             this.label1.TabIndex = 1;
-            this.label1.Text = "label1";
+            this.label1.Text = "liczba osob";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // checkBox1
             // 
             this.checkBox1.AutoSize = true;
             this.checkBox1.Location = new System.Drawing.Point(73, 80);
             this.checkBox1.Name = "checkBox1";
-            this.checkBox1.Size = new System.Drawing.Size(80, 17);
+            this.checkBox1.Size = new System.Drawing.Size(61, 17);
             this.checkBox1.TabIndex = 2;
-            this.checkBox1.Text = "checkBox1";
+            this.checkBox1.Text = "opcja 1";
             this.checkBox1.UseVisualStyleBackColor = true;
             // 
             // checkBox2
@@ -124,9 +125,9 @@
             this.checkBox2.AutoSize = true;
             this.checkBox2.Location = new System.Drawing.Point(73, 103);
             this.checkBox2.Name = "checkBox2";
-            this.checkBox2.Size = new System.Drawing.Size(80, 17);
+            this.checkBox2.Size = new System.Drawing.Size(61, 17);
             this.checkBox2.TabIndex = 3;
-            this.checkBox2.Text = "checkBox2";
+            this.checkBox2.Text = "opcja 2";
             this.checkBox2.UseVisualStyleBackColor = true;
             // 
             // checkBox3
@@ -134,9 +135,9 @@
             this.checkBox3.AutoSize = true;
             this.checkBox3.Location = new System.Drawing.Point(73, 126);
             this.checkBox3.Name = "checkBox3";
-            this.checkBox3.Size = new System.Drawing.Size(80, 17);
+            this.checkBox3.Size = new System.Drawing.Size(61, 17);
             this.checkBox3.TabIndex = 4;
-            this.checkBox3.Text = "checkBox3";
+            this.checkBox3.Text = "opcja 3";
             this.checkBox3.UseVisualStyleBackColor = true;
             // 
             // numericUpDown1
@@ -151,9 +152,9 @@
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(58, 164);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(35, 13);
+            this.label2.Size = new System.Drawing.Size(32, 13);
             this.label2.TabIndex = 6;
-            this.label2.Text = "label2";
+            this.label2.Text = "koszt";
             // 
             // label3
             // 
@@ -174,20 +175,20 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(45, 38);
+            this.label4.Location = new System.Drawing.Point(21, 40);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(35, 13);
+            this.label4.Size = new System.Drawing.Size(60, 13);
             this.label4.TabIndex = 6;
-            this.label4.Text = "label4";
+            this.label4.Text = "liczba osob";
             // 
             // checkBox4
             // 
             this.checkBox4.AutoSize = true;
             this.checkBox4.Location = new System.Drawing.Point(63, 76);
             this.checkBox4.Name = "checkBox4";
-            this.checkBox4.Size = new System.Drawing.Size(80, 17);
+            this.checkBox4.Size = new System.Drawing.Size(61, 17);
             this.checkBox4.TabIndex = 8;
-            this.checkBox4.Text = "checkBox4";
+            this.checkBox4.Text = "opcja 1";
             this.checkBox4.UseVisualStyleBackColor = true;
             // 
             // label5
@@ -229,9 +230,9 @@
             this.label8.AutoSize = true;
             this.label8.Location = new System.Drawing.Point(60, 172);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(35, 13);
+            this.label8.Size = new System.Drawing.Size(32, 13);
             this.label8.TabIndex = 14;
-            this.label8.Text = "label8";
+            this.label8.Text = "koszt";
             // 
             // Form1
             // 
