@@ -73,19 +73,5 @@ namespace Planner
 
         }
 
-        public decimal Cost
-        {
-            get
-            {
-                decimal totalCost = CalculateCostOfDecorations();
-                totalCost += NumberOfPeople * CostOfFoodPerPerson;
-                decimal cakeCost;
-                if (CakeSize() == 20)
-                    cakeCost = 40.00M + actualLength * .25M;
-                else
-                    cakeCost = 75.00M + actualLength * .25M;
-                return totalCost + cakeCost;
-            }
-        }
     }
 }
