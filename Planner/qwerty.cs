@@ -8,10 +8,11 @@ namespace Planner
 {
     class qwerty
     {
+        string add;
         public const int CostOfFoodPerPerson = 25;
         public decimal NumberOfPeople { get; set; }
         public bool FancyDecoration { get; set; }
-        public string CakeWriting { get; set; }
+       public string CakeWriting { get; set; }
 
         public qwerty(int numberOfPeople, bool fancyDecoration, string cakeWriting)
         {
@@ -31,18 +32,19 @@ namespace Planner
             }
         }
 
-        private int CakeSize()
-        {
-            if (NumberOfPeople <= 4)
-                return 20;
-            else
-                return 40;
-        }
 
         private int MaxWritingLength()
         {
             if (CakeSize() == 8)
                 return 16;
+            else
+                return 40;
+        }
+
+        private int CakeSize()
+        {
+            if (NumberOfPeople <= 4)
+                return 20;
             else
                 return 40;
         }
