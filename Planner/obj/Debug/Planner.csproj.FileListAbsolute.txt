@@ -1,0 +1,10 @@
+C:\Users\darro_000\Desktop\Planner\Planner\Planner\bin\Debug\Planner.exe.config
+C:\Users\darro_000\Desktop\Planner\Planner\Planner\bin\Debug\Planner.exe
+C:\Users\darro_000\Desktop\Planner\Planner\Planner\bin\Debug\Planner.pdb
+C:\Users\darro_000\Desktop\Planner\Planner\Planner\obj\Debug\Planner.csprojResolveAssemblyReference.cache
+C:\Users\darro_000\Desktop\Planner\Planner\Planner\obj\Debug\Planner.Form1.resources
+C:\Users\darro_000\Desktop\Planner\Planner\Planner\obj\Debug\Planner.Properties.Resources.resources
+C:\Users\darro_000\Desktop\Planner\Planner\Planner\obj\Debug\Planner.csproj.GenerateResource.Cache
+C:\Users\darro_000\Desktop\Planner\Planner\Planner\obj\Debug\Planner.csproj.CoreCompileInputs.cache
+C:\Users\darro_000\Desktop\Planner\Planner\Planner\obj\Debug\Planner.exe
+C:\Users\darro_000\Desktop\Planner\Planner\Planner\obj\Debug\Planner.pdb
